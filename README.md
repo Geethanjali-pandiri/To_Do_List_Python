@@ -2,9 +2,9 @@
 
 This is a simple To-Do List application built using Python.
 ## Intern details
-1.Name:Pandiri geethanjali
-2.Intern ID:CITS2366
-3.Duration:4 weeks
+1. Name:Pandiri Geethanjali
+2. Intern ID:CITS2366
+3. Duration:4 weeks
 
 ## Features
 - Add tasks  
